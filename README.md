@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SarahZecchini
+- 👀 I’m interested in ... Node.js, React, RESTful and PAINTING and SCULPTING
+- 🌱 I’m currently learning ... API!
+- 💞️ I’m looking to collaborate on ... stuff!
+- 📫 How to reach me ... www.midnights.gallery
